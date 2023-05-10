@@ -16,9 +16,11 @@ spring.datasource.password=
 
 2. once sucessfully logined, you will be redirect to homepage
 <img width="656" alt="image" src="https://github.com/shaliniranga/basalt-challenge/assets/39727925/dbae0985-86c3-4f0a-a3f6-20f7dee9a3bb">
-3. Click on View Transactions to "View All Transations"
+
+3. Click on View Transactions to "View All Transactions"
 <img width="791" alt="image" src="https://github.com/shaliniranga/basalt-challenge/assets/39727925/5019c680-496f-4724-b326-1cb6e38b747e">
-Alternatively using the buttons provided you add or delete the transaction
+     Alternatively using the buttons provided you add or delete the transaction
+     
 4. Click on "View Balance" to know the balance.
 <img width="756" alt="image" src="https://github.com/shaliniranga/basalt-challenge/assets/39727925/2ce9e52a-9627-46db-8f7d-3da4f0568f5e">
 
