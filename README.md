@@ -19,13 +19,18 @@ spring.datasource.password=
 
 3. Click on View Transactions to "View All Transactions"
 <img width="791" alt="image" src="https://github.com/shaliniranga/basalt-challenge/assets/39727925/5019c680-496f-4724-b326-1cb6e38b747e">
-     Alternatively using the buttons provided you add or delete the transaction
+4.Alternatively using the buttons provided you add or delete the transaction
      
-4. Click on "View Balance" to know the balance.
+5. Click on "View Balance" to know the balance.
 <img width="756" alt="image" src="https://github.com/shaliniranga/basalt-challenge/assets/39727925/2ce9e52a-9627-46db-8f7d-3da4f0568f5e">
 
 P.S :I was given only 24Hrs to complete and I could my best.
 Due to time constraints :
-1.I could have implement spring security.
-2.Unit tests
-3. Proper error handling
+1.I did not implement spring security.
+2. Unit tests not done.
+3. Proper error handling.
+
+
+
+
+<img width="983" alt="image" src="https://github.com/shaliniranga/basalt-challenge/assets/39727925/e6ebc53f-d2f0-4049-ac1b-d51d1bbd681c">
