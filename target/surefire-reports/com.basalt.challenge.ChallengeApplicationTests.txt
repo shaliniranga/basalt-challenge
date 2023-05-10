@@ -1,0 +1,13 @@
+-------------------------------------------------------------------------------
+Test set: com.basalt.challenge.ChallengeApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 3, Skipped: 0, Time elapsed: 0.262 s <<< FAILURE! - in com.basalt.challenge.ChallengeApplicationTests
+initializationError(com.basalt.challenge.ChallengeApplicationTests)  Time elapsed: 0.005 s  <<< ERROR!
+java.lang.Exception: The class com.basalt.challenge.ChallengeApplicationTests is not public.
+
+initializationError(com.basalt.challenge.ChallengeApplicationTests)  Time elapsed: 0 s  <<< ERROR!
+java.lang.Exception: Test class should have exactly one public constructor
+
+initializationError(com.basalt.challenge.ChallengeApplicationTests)  Time elapsed: 0 s  <<< ERROR!
+java.lang.Exception: Method contextLoads() should be public
+
