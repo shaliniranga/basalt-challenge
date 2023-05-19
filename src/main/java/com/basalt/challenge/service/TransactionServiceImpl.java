@@ -92,29 +92,41 @@ public class TransactionServiceImpl {
 		
 		Integer debit = repository.findByType("debit");
 		Integer credit = repository.findByType("credit");
+		if(debit !=null && credit != null) {
 		Integer balance = credit - debit;
 		return balance;
+		}
+		else {
+			return 0;
+		}
 		
 	}
 	
 	public int getDebitType() {
 		Integer debit = repository.findByType("debit");
-		if(debit == null)
-		{
-			return debit =0;
-		}
 		System.out.println("debit " +debit);
+		if(debit != null) {
 		return debit;
+		}
+		else {
+			System.out.println("no data");
+			
+			return 0;
+		}
 		
 	}
 	
 	public int getCreditType() {
 		Integer credit = repository.findByType("credit");
-		if(credit == null)
+		if(credit != null)
 		{
-			return credit =0;
+			return credit;
 		}
-		return credit;
+		else {
+			System.out.println("no data");
+			
+			return 0;
+		}
 		
 		
 	}
