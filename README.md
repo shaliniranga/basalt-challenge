@@ -22,8 +22,3 @@ spring.datasource.password=
 4.Alternatively using the buttons provided you add or delete the transaction
      
 5. Click on "View Balance" to know the balance.
-<img width="756" alt="image" src="https://github.com/shaliniranga/basalt-challenge/assets/39727925/2ce9e52a-9627-46db-8f7d-3da4f0568f5e">
-
-
-
-<img width="983" alt="image" src="https://github.com/shaliniranga/basalt-challenge/assets/39727925/e6ebc53f-d2f0-4049-ac1b-d51d1bbd681c">
